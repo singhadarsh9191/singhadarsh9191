@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adarsh Singh.
-- 👀 I’m interested in Data.
-- 🌱 I’m currently learning Data Science 
+- 👀 Data Science Enthusiast.
 - 💞️ I’m looking for roles like Data analyst, Data scientist and Data Engineer
 - 📫 You can reach me out on my email: singhadarsh9191@gmail.com
 
