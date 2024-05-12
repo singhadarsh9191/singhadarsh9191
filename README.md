@@ -1,4 +1,5 @@
 Hi there 👋 Introducing myself,
+
 ![image](https://github.com/singhadarsh9191/singhadarsh9191/assets/135518627/b18cfd27-77ec-40af-9957-bfc67f3b5ff5)
 
 
@@ -16,7 +17,7 @@ Visualization: Power BI, Tableau
 Spreadsheet: MS Excel
 
 **🖇️Projects**
-Check out my Project Portfolio: My Projects
+Check out my Project Portfolio: https://github.com/singhadarsh9191
 
 **🕸️Let's Connect**
 https://www.linkedin.com/in/adarsh-singh-735624187/
