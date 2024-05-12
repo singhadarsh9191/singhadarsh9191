@@ -29,5 +29,4 @@ Spreadsheet: MS Excel
 Check out my Project Portfolio: https://github.com/singhadarsh9191?tab=repositories
 
 **🕸️Let's Connect**
-
 https://www.linkedin.com/in/adarsh-singh-735624187/
