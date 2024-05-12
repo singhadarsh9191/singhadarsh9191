@@ -15,6 +15,7 @@ Tableau and Power BI : Develops interactive dashboards using Tableau and Power B
 
 
 **Skills**
+
 Language: SQL, Python
 
 Database: PostgreSQL, MySQL
@@ -24,7 +25,9 @@ Visualization: Power BI, Tableau
 Spreadsheet: MS Excel
 
 **🖇️Projects**
+
 Check out my Project Portfolio: https://github.com/singhadarsh9191?tab=repositories
 
 **🕸️Let's Connect**
+
 https://www.linkedin.com/in/adarsh-singh-735624187/
