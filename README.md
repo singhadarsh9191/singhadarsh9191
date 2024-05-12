@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Adarsh Singh.
-- 👀 Data Science Enthusiast.
-- 💞️ I’m looking for roles like Data analyst, Data scientist and Data Engineer
-- 📫 You can reach me out on my email: singhadarsh9191@gmail.com
+Hi there 👋 Introducing myself,
+![image](https://github.com/singhadarsh9191/singhadarsh9191/assets/135518627/b18cfd27-77ec-40af-9957-bfc67f3b5ff5)
 
-<!---
-singhadarsh9191/singhadarsh9191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm Adarsh Singh, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI and Tableau.
+
+SQL : Proficient in querying and manipulating data with SQL.
+Python : Utilizes Python for data wrangling and advanced analytics.
+Excel : Generates reports and performs data analysis using MS Excel.
+Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
+
+**Skills**
+Language: SQL, Python
+Database: PostgreSQL, MySQL
+Visualization: Power BI, Tableau
+Spreadsheet: MS Excel
+
+**🖇️Projects**
+Check out my Project Portfolio: My Projects
+
+**🕸️Let's Connect**
+https://www.linkedin.com/in/adarsh-singh-735624187/
